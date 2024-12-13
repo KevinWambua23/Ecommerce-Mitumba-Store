@@ -6,8 +6,8 @@ import { Product, FooterBanner, HeroBanner } from '../components';
 const Home = ({ products, bannerData }) => (
   <div style={{ backgroundColor: '#000', color: '#fff', padding: '20px' }}>
     <div className="products-heading">
-      <h2>Explore Our Products</h2>
-      <p>Premium Speakers and Accessories for Every Occasion</p>
+      <h2>MITUMBA THRIFT STORE</h2>
+      <p>Quality Clothes at an Affordable Price</p>
     </div>
 
     <div className="products-container" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '20px' }}>
